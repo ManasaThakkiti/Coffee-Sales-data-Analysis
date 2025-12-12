@@ -15,11 +15,17 @@ Through visualizations including boxplots, heatmaps, scatter plots, pair plots, 
 📊Tools & Technologies Used
 
 1.Python 3
+
 2.Pandas – for data cleaning and manipulation
+
 3.NumPy – for numerical operations
+
 4.Matplotlib – for creating static visualizations
+
 5.Seaborn – for statistical and multivariate plots
+
 6.Jupyter Notebook / VS Code – for development and analysis
+
 7.CSV Dataset – as the primary data source
 
 🔍 Analysis Performed
