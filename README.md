@@ -1,5 +1,7 @@
 ☕ Coffee Shop Sales Analysis – EDA Project
+
 📌 Project Summary
+
 This project involves analyzing a real-world coffee shop sales dataset containing over several hundred transactions to understand customer purchasing behavior. Using Python libraries such as Pandas, Matplotlib, and Seaborn, the analysis explores how spending varies across different times of day, weekdays, coffee types, and payment methods.
 
 Through visualizations including boxplots, heatmaps, scatter plots, pair plots, and histograms, the project identifies key insights such as evening customers spending 10–20% more, Latte and Cappuccino being the top-selling items, and Friday evenings generating the highest revenue. The analysis helps uncover transaction patterns linked to months, time slots, and customer preferences, offering meaningful insights into sales trends and business performance.
@@ -7,9 +9,13 @@ Through visualizations including boxplots, heatmaps, scatter plots, pair plots, 
 🚀Project objective
 
 1️⃣ To analyze customer spending patterns across different times of the day (Morning, Afternoon, Evening) and identify peak revenue hours.
+
 2️⃣ To determine the most popular coffee types by comparing sales volume and average spending across 10+ beverage categories.
+
 3️⃣ To study revenue trends across weekdays and months to identify high-performing days (e.g., Friday evenings) and seasonal peaks.
+
 4️⃣ To examine how different payment methods (Cash vs Card) influence spending behavior using 5+ visualizations.
+
 5️⃣ To perform bivariate and multivariate analysis using boxplots, heatmaps, scatter plots, and pairplots to uncover relationships between 8+ dataset features.
 
 📊Tools & Technologies Used
@@ -31,7 +37,9 @@ Through visualizations including boxplots, heatmaps, scatter plots, pair plots, 
 🔍 Analysis Performed
 
 1.Univariate (Histogram, Countplots)
+
 2.Bivariate (Boxplots, Barplots, Scatterplots
+
 3.Multivariate (Heatmaps, Pairplots)
 
 ✨ Key Insights
